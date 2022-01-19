@@ -21,10 +21,10 @@ public class Main {
             return "Odd";
         }
         else if(o==0){
-            return "Even";
+            return "even";
         }
         else{
-            return "Mixed";
+            return "mixed";
         }
     }
 
